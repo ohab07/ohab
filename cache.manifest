@@ -2,7 +2,7 @@ CACHE MANIFEST
 # v1.1
 CACHE:
 index.html
-includes/
+
 includes/script.js
 includes/style.css
 src/payload.bin
